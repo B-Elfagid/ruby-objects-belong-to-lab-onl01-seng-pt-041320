@@ -7,4 +7,4 @@ end
 
 end 
 
-artist.name = "Beyonce"
+artist.name = Artist.new 
